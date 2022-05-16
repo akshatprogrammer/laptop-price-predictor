@@ -1,4 +1,4 @@
 # laptop-price-predictor-regression-project
 A ML based laptop price predictor
  link
- [](https://share.streamlit.io/himank0/laptop-price-predictor-regression-project/main/app.py)
+ [link](https://share.streamlit.io/himank0/laptop-price-predictor-regression-project/main/app.py)
